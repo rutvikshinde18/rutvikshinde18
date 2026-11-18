@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Animated Typing SVG Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2EA043¢er=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Rutvik+Shinde+%F0%9F%91%8B;Software+Test+Engineer+%7C+QA+Automation;Selenium+%E2%80%A2+Playwright+%E2%80%A2+REST+Assured+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
-  </a>
+  <!-- Static High-Impact Header (Guaranteed Not to Break) -->
+  <h1>👋 Hi, I'm Rutvik Shinde</h1>
+  <h3>Software Test Engineer | QA Automation & SDET</h3>
+  <p><em>"Automate the repetitive, explore the edge cases."</em></p>
 
   <!-- Social & Contact Badges -->
   <p>
@@ -20,9 +20,6 @@
 
 ---
 
-<!-- Intro + Coding Animation Side-by-Side -->
-<img align="right" alt="QA Automation Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
 ### 👨‍💻 About Me
 
 I am a detail-oriented **Software Test Engineer** passionate about breaking applications before users do—and building **scalable test automation frameworks** to keep them rock-solid.
@@ -31,8 +28,6 @@ I am a detail-oriented **Software Test Engineer** passionate about breaking appl
 - 🧪 **Testing Philosophy:** *Quality is not an act, it is a habit — automate the repetitive, explore the edge cases.*
 - ⚙️ **CI/CD & DevOps:** Integrating automated regression suites into **GitHub Actions** & **Jenkins**
 - 📊 **Reporting:** Rich HTML dashboards with **Allure Reports** & **ExtentReports**
-
-<br clear="right"/>
 
 ---
 
